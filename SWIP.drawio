@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T13:39:00.108Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EMw33X3Cx6lZpk0pQynw" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T10:43:21.068Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D_66vI5OzwqqoPcL6o1M" version="22.1.9" type="github">
   <diagram name="Page-1" id="YUkULjERK0X3Gxe00vvD">
-    <mxGraphModel dx="1687" dy="2155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BAmfAh22jGZhXwGGAxlv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" edge="1" parent="1" source="CmCveuowge2aYoOE-A_b-1">
+        <mxCell id="BAmfAh22jGZhXwGGAxlv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" parent="1" source="CmCveuowge2aYoOE-A_b-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="75" as="sourcePoint" />
             <mxPoint x="347.5" y="290" as="targetPoint" />
@@ -14,12 +14,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BAmfAh22jGZhXwGGAxlv-2" value="Flux de récupération des données marchand" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="BAmfAh22jGZhXwGGAxlv-1">
+        <mxCell id="BAmfAh22jGZhXwGGAxlv-2" value="Flux de récupération des données marchand" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="BAmfAh22jGZhXwGGAxlv-1" vertex="1" connectable="0">
           <mxGeometry x="0.4143" y="3" relative="1" as="geometry">
             <mxPoint x="29" y="-47" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmCveuowge2aYoOE-A_b-1" value="Boutique Partenaires" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="CmCveuowge2aYoOE-A_b-1" value="Boutiques Partenaires" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CmCveuowge2aYoOE-A_b-2" value="Fichier produits mis à disposition.&lt;br style=&quot;font-size: 13px;&quot;&gt;Données présentes: Prix, Stock, Logo ..." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -53,7 +53,7 @@
         <mxCell id="CmCveuowge2aYoOE-A_b-22" value="Tracking (ctr)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CmCveuowge2aYoOE-A_b-20" vertex="1">
           <mxGeometry y="90" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BAmfAh22jGZhXwGGAxlv-3" value="DropList ( Price Alert)&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CmCveuowge2aYoOE-A_b-20">
+        <mxCell id="BAmfAh22jGZhXwGGAxlv-3" value="DropList ( Price Alert)&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CmCveuowge2aYoOE-A_b-20" vertex="1">
           <mxGeometry y="120" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CmCveuowge2aYoOE-A_b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CmCveuowge2aYoOE-A_b-22" edge="1">
